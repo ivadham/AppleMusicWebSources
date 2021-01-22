@@ -9,7 +9,7 @@ Automatically gather proper [ID3](https://id3.org) tags and download cover artwo
 
 1. Download and install [Mp3tag](https://www.mp3tag.de/en/dodownload.html)
 
-2. Download [Apple Music (US).src](https://raw.githubusercontent.com/ivadham/AppleMusicWebSources/master/Apple%20Music%20(US).src)
+2. Download [Apple Music (US).src](https://github.com/ivadham/AppleMusicWebSources/blob/master/Apple%20Music%20(US).src) (Right-click `Raw` and save the file)
 
 3. Press `Win+R`, type in `%APPDATA%\Mp3tag\data\sources` and click OK. Paste `Apple Music (US).src` there.
 
